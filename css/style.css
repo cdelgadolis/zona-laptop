@@ -80,3 +80,17 @@ section {
 .redes-sociales{
   padding: 2px;
 }
+
+.img {
+ -webkit-transform: rotate(-5deg);
+ -moz-transform: rotate(-5deg);
+ -ms-transform: rotate(-5deg);
+ transform: rotate(-5deg);
+}
+
+.imagen {
+ -webkit-transform: rotate(5deg);
+ -moz-transform: rotate(5deg);
+ -ms-transform: rotate(5deg);
+ transform: rotate(5deg);
+}
