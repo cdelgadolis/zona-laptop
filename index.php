@@ -11,24 +11,16 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
 <body>
-<?php include('header.php');?>
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<section>
-	<br>
-	<?php include('huawei.php');?>
-	<br>
-	<?php include('parlante.php');?>
-<br>
-<?php include('play-station.php');?>
-<br>
-<?php include('chromebook.php');?>
-<br>
-<?php include('kindle.php');?>
-<br>
-<?php include('footer.php');?>
+<?php
+	include('header.php');
+	include('iphone.php');
+	include('huawei.php');
+	include('samsung.php');
+	include('parlante.php');
+	include('notebook.php');
+  include('play-station.php');
+  include('laptop.php');
+  include('chromebook.php');
+  include('smart.php');
+  include('kindle.php');
+  include('footer.php');?>
