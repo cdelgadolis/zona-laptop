@@ -1,7 +1,7 @@
 <div class="fondo-azul">
   <table border="0">
     <tr>
-      <td>
+      <td width="600px">
         <img src="LandingZonalaptop/Links/kindle.png" width="450px" height="450px">
       </td>
       <td>

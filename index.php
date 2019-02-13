@@ -20,6 +20,12 @@
 <br>
 <br>
 <section>
+	<br>
+	<?php include('huawei.php');?>
+	<br>
+	<?php include('parlante.php');?>
+<br>
+<?php include('play-station.php');?>
 <br>
 <?php include('chromebook.php');?>
 <br>
