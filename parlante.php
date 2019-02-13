@@ -2,7 +2,7 @@
   <table border="0">
     <tr>
       <td width="600px">
-        <img src="LandingZonalaptop/Links/banner-parlante2.png" width="400px" height="450px" align="right">
+        <img src="LandingZonalaptop/Links/banner-parlante2.png" width="400px" height="450px" align="right" class="imagen">
       </td>
       <td>
         <p class="letras-blancas">

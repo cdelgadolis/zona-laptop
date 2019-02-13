@@ -2,7 +2,7 @@
   <table border="0">
     <tr>
       <td width="600px">
-        <img src="LandingZonalaptop/Links/kindle.png" width="450px" height="450px">
+        <img src="LandingZonalaptop/Links/kindle.png" width="450px" height="450px" class="img">
       </td>
       <td>
         <p class="letras-blancas">
